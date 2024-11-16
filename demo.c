@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main () {
-    int a = 3, b = 2;
+    int a = 3, b = 6;
     float c;
     c = (float)a /  (float)b;
     printf("c = %f\n",c);
