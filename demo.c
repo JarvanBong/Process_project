@@ -10,5 +10,6 @@ int main () {
     printf("版本1");
     printf("版本2");
     printf("版本3");
+    printf("提交远程仓库");
     return 0;
 }
