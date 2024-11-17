@@ -8,5 +8,7 @@ int main () {
     printf("计算结束");
     printf("新增撤回内容内容");
     printf("版本1");
+    printf("版本2");
+    printf("版本3");
     return 0;
 }
